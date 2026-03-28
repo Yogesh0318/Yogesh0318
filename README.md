@@ -73,4 +73,14 @@ A pipeline that detects and flags fraudulent activity in real time using data pr
 
 ---
 
-⭐ *Always open to learning, collaborating, and solving data problems.*
+
+## 💡 Suggestions & Feedback
+
+Got an idea or suggestion? I'd love to hear it!
+
+👉 [Submit a suggestion here](https://github.com/Yogesh0318/feedback/issues/new)
+
+
+
+⭐ **Always open to learning, collaborating, and solving data problems.**
+
