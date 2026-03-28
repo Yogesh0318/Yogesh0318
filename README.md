@@ -59,13 +59,8 @@ Developed a system focused on secure data handling and validation.
 ### 🔹 Attentiveness Project
 Analyzed user attentiveness using data and basic machine learning techniques.
 
----
-
-## 📚 Currently Learning
-
-- Advanced SQL  
-- Power BI automation  
-- Machine learning deployment  
+###    Fruad Monitoring Pipeline
+A pipeline that detects and flags fraudulent activity in real time using data processing and machine learning.
 
 ---
 
