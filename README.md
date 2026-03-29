@@ -25,11 +25,11 @@ My approach is simple:
 
 ## 💻 Tech Stack
 
-**Languages:** Python, SQL  
-**Visualization:** Power BI, Excel  
-**Databases:** MySQL  
-**Tools:** GitHub, Jupyter Notebook, VS Code  
-**Libraries:** Pandas, NumPy, Scikit-learn  
+**Languages :** Python, SQL  
+**Visualization :** Power BI, Excel  
+**Databases :** MySQL  
+**Tools :** GitHub, Jupyter Notebook, VS Code  
+**Libraries :** Pandas, NumPy, Scikit-learn  
 
 ---
 
@@ -59,15 +59,15 @@ Developed a system focused on secure data handling and validation.
 ### 🔹 Attentiveness Project
 Analyzed user attentiveness using data and basic machine learning techniques.
 
-###  *  Fruad Monitoring Pipeline
+###  **  Fruad Monitoring Pipeline
 A pipeline that detects and flags fraudulent activity in real time using data processing and machine learning.
 
 ---
 
 ## 📫 Contact Me
 
-📧 Email: yogeshdhavale170@gmail.com  
-📱 Phone: 8788743370  
+📧 Email:  yogeshdhavale170@gmail.com  
+📱 Phone:  8788743370  
 🔗 LinkedIn: https://www.linkedin.com/in/yogesh-dhavale-/  
 🌐 Portfolio: https://portfolioyogi.netlify.app  
 
