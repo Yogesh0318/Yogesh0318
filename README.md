@@ -1,4 +1,4 @@
- 👋 Hi, I'm Yogesh Dhavale
+****Yogesh Dhavale****
 
 💼 Data Analyst | SQL | Power BI | Python  
 
