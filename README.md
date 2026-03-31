@@ -1,6 +1,6 @@
 ****Yogesh Dhavale****
 
-💼 Data Analyst | SQL | Power BI | Python  
+💼 Data Analyst  |  SQL  |  Power BI  |  Python  
 
 ---
 
